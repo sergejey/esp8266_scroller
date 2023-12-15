@@ -4,7 +4,7 @@ Small project to run messages and scrolling text on matrix modules (MD_MAX72XX) 
 
 ## Usage
 
-Update following lines in config.h file if neccessary:
+Update following lines in config.h file if necessary:
 
 ```c
 #define CLK_PIN   D5 // or SCK
